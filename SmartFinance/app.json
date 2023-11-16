@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "SmartFinance",
+    "slug": "SmartFinance",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "SmartFinance"
+}
